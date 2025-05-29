@@ -1,0 +1,38 @@
+{
+  "9577Y6HF": {
+    "Awards": [
+      {
+        "AwardType": "Dress",
+        "Data": "DressPink"
+      }
+    ],
+    "Active": true
+  },
+  "94y7tbnfk": {
+    "Awards": [
+      {
+        "AwardType": "Dress",
+        "Data": "DressRed"
+      }
+    ],
+    "Active": true
+  },
+  "ikr76g9RG": {
+    "Awards": [
+      {
+        "AwardType": "Item",
+        "Data": "Apple"
+      }
+    ],
+    "Active": true
+  },
+  "DARRYT": {
+    "Awards": [
+      {
+        "AwardType": "Tool",
+        "Data": "Light Tool"
+      }
+    ],
+    "Active": true
+  }
+}
